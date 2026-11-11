@@ -1,0 +1,2 @@
+id,difficulty,source,grid
+easy_01,Easy,"Constructed from a valid completed Sudoku by seeded row/column/digit permutation and clue removal; seed=311001; difficulty is clue-count proxy, not independently certified",100905680800040005954608300570000418410050200280001073000506700045009836020734901
