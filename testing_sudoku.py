@@ -12,7 +12,7 @@ from validator import validating_grid, checking_solution
 from solver_basic import solve_basic
 from solver_mrv import solve_mrv
 
-"""#Testing complet sudoku grids with no errors (validator,checker,basick solver,MRV solver)
+"""#Testing complete sudoku grids with no errors (validator,checker,basick solver,MRV solver)
 
 """
 
@@ -212,7 +212,7 @@ print("Validator:", validating_grid(GreaterThan_grid))
 #Testing solution checker
 print("Solution checker:", checking_solution(GreaterThan_grid, GreaterThan_grid))
 
-"""#Testing unsolved grid (validator,checker,basick solver,MRV solver)"""
+"""#Testing unsolvable grid (validator,checker,basick solver,MRV solver)"""
 
 unsolvable_grid = [
     [5, 3, 1, 0, 7, 0, 0, 0, 0],
